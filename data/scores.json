@@ -1,0 +1,56 @@
+{
+    "global_preferences": {
+        "tourism": {
+            "reward": 4,
+            "count": 5
+        },
+        "entertainment": {
+            "reward": -4,
+            "count": 4
+        },
+        "leisure": {
+            "reward": -3,
+            "count": 3
+        },
+        "natural": {
+            "reward": -10,
+            "count": 3
+        },
+        "camping": {
+            "reward": 2,
+            "count": 2
+        },
+        "beach": {
+            "reward": -1,
+            "count": 1
+        }
+    },
+    "state_preferences": {
+        "Kerala": {
+            "tourism": {
+                "reward": 4,
+                "count": 5
+            },
+            "entertainment": {
+                "reward": -4,
+                "count": 4
+            },
+            "leisure": {
+                "reward": -3,
+                "count": 3
+            },
+            "natural": {
+                "reward": -10,
+                "count": 3
+            },
+            "camping": {
+                "reward": 2,
+                "count": 2
+            },
+            "beach": {
+                "reward": -1,
+                "count": 1
+            }
+        }
+    }
+}
